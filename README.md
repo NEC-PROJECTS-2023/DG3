@@ -4,6 +4,7 @@ Team members:
 1. Gudipalli Sai Varshini
 2. P. Bala jyothi
 3. K. Sivani bai
+
 About project:
   Sentiment analysis is becoming a popular area of research and social media
 analysis, especially around user reviews and tweets. It is a special case of text
